@@ -115,7 +115,7 @@ def main():
     GE()
     MetaBoit()
     gruby()
-    os.system('sudo rm -rf invictusinstall.py')
+    os.system('sudo rm -rf invictusInstall.py')
     
 if __name__ == '__main__':
     main()
