@@ -1,6 +1,8 @@
 # Invictus
 An OS set of Standards and installer for ECT06
-
+# ISO Links
+Linux: https://ubuntu.com/download/desktop/thank-you?version=23.04&architecture=amd64
+Windows: https://www.microsoft.com/software-download/windows11
 # Partitions
 This is a Dual Boot Set up so Please split your drive directly in half 
 1. Use the windows custom install to split and partion
